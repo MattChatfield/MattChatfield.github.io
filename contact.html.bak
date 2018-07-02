@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Grade 2 - punk music from the Isle of Wight">
+    <meta name="author" content="Pinkeye Graphics">
+	<link rel="apple-touch-icon" sizes="180x180" href="iconography/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="iconography/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="iconography/favicon-16x16.png">
+<link rel="manifest" href="iconography/site.webmanifest">
+<link rel="mask-icon" href="iconography/safari-pinned-tab.svg" color="#96102d">
+<link rel="shortcut icon" href="iconography/favicon.ico">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-config" content="iconography/browserconfig.xml">
+<meta name="theme-color" content="#96102d">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <title>Contact Grade 2 - punk music from the Isle of Wight</title>
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/grade2.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Grade 2</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="music.html">Music</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://shop.grade2official.co.uk">Merch</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="dates.html">Dates</a>
+            </li>			
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+          </ul>
+		  
+	<div class="social row" id="nav-social">
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.facebook.com/grade2iow">
+								<i class="fab fa-facebook" title="Facebook"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.youtube.com/Grade2Official">
+								<i class="fab fa-youtube" title="YouTube"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://play.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b">
+								<i class="fab fa-spotify" title="Spotify"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://itunes.apple.com/us/author/grade-2/id571458299?mt=11">
+								<i class="fab fa-apple" title="iTunes"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.instagram.com/grade2iow/">
+								<i class="fab fa-instagram" title="Instagram"></i>
+							</a>
+		</div>
+		 <div class="col-md-2 social-col">
+		<a target="_blank" href="mailto:contact@grade2official.co.uk">
+								<i class="fa fa-at" title="Email"></i>
+							</a>
+		
+		</div> 
+	</div>
+		  
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="mt-4 mb-3">Contact    
+      </h1>
+
+
+      <!-- Content Row -->
+      <div class="row">
+
+        <!-- Contact Details Column -->
+        <div class="col-lg-4 mb-4">
+ <h4>Contact Grade 2 on Facebook or email</h4>
+ <div class="row" id="contact-icons">
+ <div class="col-6">
+ <a target="_blank" href="https://www.facebook.com/grade2iow">
+								<i class="fab fa-facebook" title="Facebook"></i>
+							</a></div>
+ <div class="col-6"><a target="_blank" href="mailto:contact@grade2official.co.uk">
+								<i class="fa fa-at" title="Email"></i>
+							</a></div>
+							</div>
+
+        </div>
+        <div class="col-lg-8 mb-4">
+          <img class="img-fluid" src="images/grade2leipzig.jpg" alt="Grade 2, Leipzig">
+        </div>		
+		
+		
+      </div>
+      <!-- /.row -->
+
+	  	 <div class="social row">
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.facebook.com/grade2iow">
+								<i class="fab fa-facebook" title="Facebook"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.youtube.com/Grade2Official">
+								<i class="fab fa-youtube" title="YouTube"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://play.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b">
+								<i class="fab fa-spotify" title="Spotify"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://itunes.apple.com/us/author/grade-2/id571458299?mt=11">
+								<i class="fab fa-apple" title="iTunes"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.instagram.com/grade2iow/">
+								<i class="fab fa-instagram" title="Instagram"></i>
+							</a>
+		</div>
+		 <div class="col-md-2 social-col">
+		<a target="_blank" href="mailto:contact@grade2official.co.uk">
+								<i class="fa fa-at" title="Email"></i>
+							</a>
+		
+		</div> 
+	</div>
+	  
+	  
+	  <div class="row bg-dark" id="quote-row">
+          <p class="quote text-left" style="margin-bottom:0"><em>"I got lots of work to do, but I’m not gonna do it today / I got more important things to attend to, like refreshing my Facebook page"</em></p>
+		  <p class="quote text-right"style="margin-top:0"><a href="http://shop.grade2official.co.uk/">Procrastinator; Break the Routine</a></p>
+</div>
+	  
+	  
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center" id="smallprint">Website designed and managed by Pinkeye Graphics Ltd. All content copyright &copy Grade 2 and other contributors. All rights reserved</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

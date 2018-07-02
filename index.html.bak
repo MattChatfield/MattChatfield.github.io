@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Grade 2 - punk music from the Isle of Wight">
+    <meta name="author" content="Pinkeye Graphics">
+	<link rel="apple-touch-icon" sizes="180x180" href="iconography/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="iconography/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="iconography/favicon-16x16.png">
+<link rel="manifest" href="iconography/site.webmanifest">
+<link rel="mask-icon" href="iconography/safari-pinned-tab.svg" color="#96102d">
+<link rel="shortcut icon" href="iconography/favicon.ico">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-config" content="iconography/browserconfig.xml">
+<meta name="theme-color" content="#96102d">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <title>Grade 2 - punk music from the Isle of Wight</title>
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/grade2.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Grade 2</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="music.html">Music</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://shop.grade2official.co.uk">Merch</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="dates.html">Dates</a>
+            </li>			
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+          </ul>
+		  
+	<div class="social row" id="nav-social">
+		<div class="col-xs-2 social-col">
+			<a target="_blank" href="https://www.facebook.com/grade2iow">
+								<i class="fab fa-facebook" title="Facebook"></i>
+							</a>
+		</div>
+		<div class="col-xs-2 social-col">
+			<a target="_blank" href="https://www.youtube.com/Grade2Official">
+								<i class="fab fa-youtube" title="YouTube"></i>
+							</a>
+		</div>
+		<div class="col-xs-2 social-col">
+			<a target="_blank" href="https://play.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b">
+								<i class="fab fa-spotify" title="Spotify"></i>
+							</a>
+		</div>
+		<div class="col-xs-2 social-col">
+			<a target="_blank" href="https://itunes.apple.com/us/author/grade-2/id571458299?mt=11">
+								<i class="fab fa-apple" title="iTunes"></i>
+							</a>
+		</div>
+		<div class="col-xs-2 social-col">
+			<a target="_blank" href="https://www.instagram.com/grade2iow/">
+								<i class="fab fa-instagram" title="Instagram"></i>
+							</a>
+		</div>
+		 <div class="col-xs-2 social-col">
+		<a target="_blank" href="mailto:contact@grade2official.co.uk">
+								<i class="fa fa-at" title="Email"></i>
+							</a>
+		
+		</div> 
+	</div>
+		  
+        </div>
+      </div>
+    </nav>
+    <header class="heroimage">
+  <div class="container-fluid" id="hero-content">
+    <div class="row justify-content-center">
+      <div >
+        <img class="img-responsive" id="grade2-logo" src="images/grade2logo2018.jpg">
+      </div>
+    </div>
+  </div>
+</header>
+    <!-- Page Content -->
+    <div class="container">
+      <h1 class="my-4" id="page-title">Punk music from the Isle of Wight</h1>
+
+	 <!-- This row appears on smaller screens -->
+	 <div class="social popup row">
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.facebook.com/grade2iow">
+								<i class="fab fa-facebook" title="Facebook"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.youtube.com/Grade2Official">
+								<i class="fab fa-youtube" title="YouTube"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://play.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b">
+								<i class="fab fa-spotify" title="Spotify"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://itunes.apple.com/us/author/grade-2/id571458299?mt=11">
+								<i class="fab fa-apple" title="iTunes"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.instagram.com/grade2iow/">
+								<i class="fab fa-instagram" title="Instagram"></i>
+							</a>
+		</div>
+		 <div class="col-md-2 social-col">
+		<a target="_blank" href="mailto:contact@grade2official.co.uk">
+								<i class="fa fa-at" title="Email"></i>
+							</a>
+		
+		</div> 
+	</div>
+
+      <!-- Perch row section -->
+      <div class="row">
+        <div class="col-lg-4 mb-4">
+          <a href="music.html">
+		  <div class="card h-100" style="transform: rotate(-4deg)" >
+		  <img class="card-img-top" src="images/BTRCover-LowQuality.jpg" alt="Break the Routine">
+            <div class="card-img-overlay">
+			<h1 class="card-header">Music</h1>
+            <div class="card-body">
+              <h4 class="card-text">Latest album: Break the Routine</h4>
+            </div>
+			</div>
+          </div>
+		  </a>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <a href="http://shop.grade2official.co.uk">
+		  <div class="card h-100">
+		  <img class="card-img-top" src="images/Grade-2-rose-logo-hoodie-black2.jpg" alt="Hoodie">
+            <div class="card-img-overlay">
+            <h1 class="card-header">Merch</h1>
+            <div class="card-body">
+              <h4 class="card-text">Buy Grade 2 music and gear</h4>
+            </div>
+			</div>
+          </div>
+		  </div>
+		  </a>
+        <div class="col-lg-4 mb-4">
+          <a href="#">
+		  <div class="card h-100" style="transform: rotate(2deg)">
+		  <img class="card-img-top" src="images/g2-live.jpg" alt="Break the Routine">
+            <div class="card-img-overlay">
+            <h1 class="card-header">Dates</h1>
+            <div class="card-body">
+              <h4 class="card-text">Grade 2: live across Europe</h4>
+            </div>
+			</div>
+          </div>
+		  </div>
+      </div>
+      <!-- /.row -->
+
+<div class="row bg-dark" id="quote-row">
+          <p class="quote text-left" style="margin-bottom:0"><em>"Break the Routine is one of the albums of the year"</em></p>
+		  <p class="quote text-right"style="margin-top:0"><a href="http://soundsofthestreet.net/2017-2/grade-2-break-the-routine/">Mark Jones, Sounds of the Street</a></p>
+</div>
+
+	        <!-- Features Section -->
+      <div class="row">
+        <div class="col-lg-6">
+          <h2>We're from the coast</h2>
+          <p>Grade 2 is a band from Ryde on the Isle of Wight. Their music is described as a classic punk sound, which tends towards an Oi! style, and features lyrics about everyday problems. The band was formed in May 2013, and has been touring and producing original music non-stop ever since.</p>
+		  <p>
+		  Group members are Sid Ryan (lead vocals and bass guitar), Jack Chatfield (guitar) and Jacob Hull (drums). 
+		  </p>
+<p>Since 2013 Grade 2 has released several records and appears regularly across Europe.</p>
+		  </p>
+        </div>
+        <div class="col-lg-6">
+          <img class="img-fluid rounded" src="images/g2-band.jpg" alt="grade 2">
+        </div>
+      </div>
+      <!-- /.row -->
+	  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="http://lightwidget.com/widgets/0983e8e9326d5ca1bfdc04f586fe8761.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+      <hr>
+	 <div class="social popup row">
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.facebook.com/grade2iow">
+								<i class="fab fa-facebook" title="Facebook"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.youtube.com/Grade2Official">
+								<i class="fab fa-youtube" title="YouTube"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://play.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b">
+								<i class="fab fa-spotify" title="Spotify"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://itunes.apple.com/us/author/grade-2/id571458299?mt=11">
+								<i class="fab fa-apple" title="iTunes"></i>
+							</a>
+		</div>
+		<div class="col-md-2 social-col">
+			<a target="_blank" href="https://www.instagram.com/grade2iow/">
+								<i class="fab fa-instagram" title="Instagram"></i>
+							</a>
+		</div>
+		 <div class="col-md-2 social-col">
+		<a target="_blank" href="mailto:contact@grade2official.co.uk">
+								<i class="fa fa-at" title="Email"></i>
+							</a>
+		
+		</div> 
+	</div>
+    </div>
+    <!-- /.container -->
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center" id="smallprint">Website designed and managed by Pinkeye Graphics Ltd. All content copyright &copy Grade 2 and other contributors. All rights reserved</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

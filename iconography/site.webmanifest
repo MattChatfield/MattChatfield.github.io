@@ -1,0 +1,19 @@
+{
+    "name": "Grade 2",
+    "short_name": "Grade 2",
+    "icons": [
+        {
+            "src": "/iconography/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/iconography/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#96102d",
+    "background_color": "#96102d",
+    "display": "standalone"
+}
